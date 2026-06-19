@@ -19,8 +19,8 @@ export function About() {
               <Reveal as="p" delay={2}>
                 Every piece begins with a conversation. We design around your story, sweat the
                 details, and treat hygiene and aftercare as seriously as the artwork itself. The
-                result is a perfect 5.0 reputation across {studio.reviewCount} Google reviews, and
-                a room people are happy to spend hours in.
+                result is a perfect 5.0 reputation across {studio.reviewCount} Google reviews, and a
+                room people are happy to spend hours in.
               </Reveal>
             </div>
 
